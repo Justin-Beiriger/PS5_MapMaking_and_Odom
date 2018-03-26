@@ -2,7 +2,7 @@
 
 Justin Beiriger, jwb153
 
-The screenshot of the map in RVIZ is attached as a separate file. Note that I did not command the STDR to traverse the entire world; rather, I instructed it to travel through the maze to the top left and record the map that it detects on the way.
+The screenshot of the map in RVIZ is attached as a separate file and displayed below. Note that I did not command the STDR to traverse the entire world; rather, I instructed it to travel through the maze to the top left and record the map that it detects on the way.
 
 ![image](Map_Image.png)
 
